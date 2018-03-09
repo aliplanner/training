@@ -1,6 +1,6 @@
 # Chatbots made easy workshop.
 
-## After this you’ll be a Chatbot SUPER HERO!
+## After this you’ll be a Chatbot SUPERHERO!
 
 * We will learn how to create an agent
 * Then we will create a dialog with Dialogflow
